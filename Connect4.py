@@ -88,6 +88,8 @@ def menu():
 
 def display_board():
     pass
+    # fucntion used to display the board and the pins on it. include menu
+    # buttons as well
 
 
 
