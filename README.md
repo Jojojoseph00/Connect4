@@ -1,2 +1,2 @@
 # Connect4
-Python Game of Connect$
+Python Game of Connect4
