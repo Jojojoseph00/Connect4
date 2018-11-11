@@ -1,9 +1,10 @@
-###
-#Python game: Connect4
+####
+# Python game: Connect4
 #
-#Copyright (c) Youssef El-Moukhtar @Owl-ProjX
-#https://www.youtube.com/watch?v=UYgyRArKDEs
-###
+# Copyright (c) Youssef El-Moukhtar @Owl-ProjX
+#
+# Source inspo for project: https://www.youtube.com/watch?v=UYgyRArKDEs
+####
 -*- coding: utf-8 -*-
 
 import numpy as np
