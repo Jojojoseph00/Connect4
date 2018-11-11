@@ -2,7 +2,7 @@
 #Python game: Connect4
 #
 #Copyright (c) Youssef El-Moukhtar @Owl-ProjX
-#
+#https://www.youtube.com/watch?v=UYgyRArKDEs
 ###
 -*- coding: utf-8 -*-
 
