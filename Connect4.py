@@ -4,18 +4,22 @@
 # Copyright (c) Youssef El-Moukhtar @Owl-ProjX
 #
 # Source inspo for project: https://www.youtube.com/watch?v=UYgyRArKDEs
-####
+#### JPHN os beauotful
 -*- coding: utf-8 -*-
 
 import numpy as np
-
+import pygame
+import sys
+import math
 
 # Creating the game board:
 game_board = np.zeros((r, c))
 
 
 
-#Class game represeting a game:
+
+
+#Class game representing a game:
 class Game:
     mat = None # this represents the board matrix
     rows = 0 # this represents the number of rows of the board
